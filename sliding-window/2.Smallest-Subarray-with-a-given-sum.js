@@ -16,4 +16,5 @@ var minSubArrayLen = function(target, nums) {
   }
   return min === Infinity? 0: min
 };
+// time [n] , space [1]
 // console.log(minSubArrayLen([3,4,1,1,6],8 ))

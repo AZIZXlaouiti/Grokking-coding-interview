@@ -14,4 +14,5 @@ var maxSum = function(nums , k){
     }
     return maxSum 
 }
+// time [n] , space [1]
 console.log(maxSum([2, 1, 5, 1, 3, 2], 3))

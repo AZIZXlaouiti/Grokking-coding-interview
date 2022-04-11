@@ -19,4 +19,5 @@ var longestSubstring = function(str ,k){
     }
  return max
 }
+// time [n] , space [k]
 console.log(longestSubstring('araaci', 2))
